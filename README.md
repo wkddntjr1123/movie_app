@@ -1,1 +1,1 @@
-# react를 이용한 영화앱
+### react를 이용한 영화 소개 Frontend
